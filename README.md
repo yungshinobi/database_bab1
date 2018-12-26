@@ -10,9 +10,9 @@
 #### Структура бази даних
 ![alt text]()
 #### 2-3 копії екранних форм (screenshots).
-### artists table
+##### artists table
 ![alt text](https://i.imgur.com/bWzqZdi.jpg)
-### fulltext search
+##### fulltext search
 ![alt text](https://i.imgur.com/ooe6mSt.jpg)
-### material search
+##### material search
 ![alt text](https://i.imgur.com/KwkPZMe.jpg)
