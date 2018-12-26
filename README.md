@@ -10,6 +10,6 @@
 #### Структура бази даних
 ![alt text]()
 #### 2-3 копії екранних форм (screenshots).
-![alt text]()
+![alt text](https://i.imgur.com/bWzqZdi.jpg)
 ![alt text]()
 ![alt text]()
